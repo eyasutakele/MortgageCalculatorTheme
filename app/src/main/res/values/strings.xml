@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MortgageCalculatorTheme</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="principal_label">Principal</string>
+    <string name="principal">10000</string>
+
+    <string name="monthly_rate_label">Interest Rate /M</string>
+    <string name="monthly_rate">5</string>
+
+    <string name="month_number_label">Number of Months</string>
+    <string name="month_number">120</string>
+
+    <string-array name="month_array">
+        <item >12</item>
+        <item >24</item>
+        <item >36</item>
+        <item >48</item>
+        <item >60</item>
+        <item >72</item>
+        <item >84</item>
+        <item >96</item>
+        <item >108</item>
+        <item >120</item>
+    </string-array>
+
+    <string name="weekly_rate_label">Interest Rate /W</string>
+    <string name="weekly_rate">3</string>
+
+    <string name="week_number_label">Number of Weeks</string>
+    <string name="week_number">500</string>
+
+    <string name="monthly_rbtn">Pay by month</string>
+    <string name="weekly_rbtn">Pay by week</string>
+
+    <string name="calculate_btn">Calculate</string>
+
+    <string name="single_payment_label">Single Payment</string>
+    <string name="single_payment">123</string>
+
+    <string name="total_payment_label">Total Payment</string>
+    <string name="total_payment">12345</string>
+
+
+</resources>
